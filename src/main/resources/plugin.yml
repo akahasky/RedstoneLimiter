@@ -1,0 +1,6 @@
+main: com.github.akahasky.redstone.RedstonePlugin
+name: RedstoneLimiter
+version: 1.0-SNAPSHOT
+author: akahasky
+website: https://github.com/akahasky/RedstoneLimiter
+description: A simple plugin designed to limit interactions with the redstone.
